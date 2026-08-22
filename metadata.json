@@ -1,0 +1,6 @@
+{
+  "name": "AURA - Modern E-Commerce",
+  "description": "A modern, premium e-commerce platform integrated with MongoDB for product catalog, orders, and customer management, and Azure Storage Account for cloud media assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
